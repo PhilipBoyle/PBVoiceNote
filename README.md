@@ -10,7 +10,9 @@ Or maybe, you just want to test your voice for the next big Karaoke night.
 
 I decided to keep the app simple and very quick to use without too much complicaitons. 
 
-How to use: 
+You will find the main part of the code in the file "VoiceNote.cs"
+
+How to use the app: 
 1. Press the "Record" button.
 2. Speak into your device's microphone
 3. Press the "Stop" button.
