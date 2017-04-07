@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Philip\Documents\Visual Studio 2015\Projects\PBVoiceNote\PBVoiceNote\bin\x64\Release\PBVoiceNote_1.1.2.0_x64.appx
+SymbolPackage=C:\Users\Philip\Documents\Visual Studio 2015\Projects\PBVoiceNote\PBVoiceNote\AppPackages\PBVoiceNote_1.1.2.0_Test\PBVoiceNote_1.1.2.0_x64.appxsym

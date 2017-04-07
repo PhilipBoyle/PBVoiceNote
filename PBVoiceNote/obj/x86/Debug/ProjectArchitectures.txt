@@ -1,0 +1,1 @@
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PBVoiceNote\PBVoiceNote\PBVoiceNote.csproj;x86
